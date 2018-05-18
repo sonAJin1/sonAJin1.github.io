@@ -2,7 +2,7 @@
 
 2018-04-19
 
-##[Jekyll] jekyll install on window
+[Jekyll] jekyll install on window
 
 
 
