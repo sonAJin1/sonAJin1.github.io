@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "log"
+  - title: "개발일지"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
