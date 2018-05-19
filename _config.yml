@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko"
 title                    : "Ajin's log"
 title_separator          : "-"
-name                     : "SON AH JIN test"
+name                     : "SON AH JIN"
 description              : "Ajin's blog"
 url                      : "https://sonAjin1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -265,7 +265,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false # 해당 포스트를 읽은 시간이 표시
+      read_time: true # 해당 포스트를 읽은 시간이 표시
       comments: # true
       share: true #포스트 공유 기능을 활성화 할것인지
       related: true
