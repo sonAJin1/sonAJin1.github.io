@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "개발일지"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /developLog/
   - title: "TIL"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /TIL
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
