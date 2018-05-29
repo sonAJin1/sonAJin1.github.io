@@ -10,3 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+#mydocs :
+#  - title: "졸업프로젝트"
+#    children:
+#      - title: "UX"
+#        url: /_posts/
+#      - title: "Develop"
+#        url: /mydocs/
