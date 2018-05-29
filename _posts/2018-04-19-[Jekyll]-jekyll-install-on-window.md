@@ -1,12 +1,10 @@
 
 
-###2018-04-19
-
-#[Jekyll] jekyll install on window
+[Jekyll]  jekyll install on window
 
 
 
-> #####Be careful!
+> Be careful!
 >
 > If the first part of the repository doesn't exactly your username, it won't work, so make sure to get it right.
 

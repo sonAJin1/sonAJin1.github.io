@@ -4,7 +4,7 @@
 
 > ### Slider 생성방법
 
-1. hierarchy View에 우클릭 후 UI -> Slider를 선택합니다.
+1. hierarchy View에 우클릭 후 UI -> Slider를 선택한다.
 
    ![2018_05_28_slider_01](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_01.png){: width="30" height="30"}
 
@@ -14,7 +14,7 @@
 
    ​
 
-2. Slider Fill의 색을 원하는 색상으로 변경합니다.
+2. Slider Fill의 색을 원하는 색상으로 변경한다.
 
    ![2018_05_28_slider_02](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_02.png){: width="30 height="30"}
 
@@ -33,7 +33,7 @@
 
    ​
 
-2. 스페이스바를 누르고 있으면 값이 증가하는 코드 작성 후 저장
+2. 스페이스바를 누르고 있으면 값이 증가하는 코드 작성 후 저장한다.
 
    ~~~c#
    using System.Collections;
