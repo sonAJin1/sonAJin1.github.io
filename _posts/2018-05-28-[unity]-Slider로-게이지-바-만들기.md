@@ -6,7 +6,7 @@
 
 1. hierarchy View에 우클릭 후 UI -> Slider를 선택한다.
 
-   ![2018_05_28_slider_01](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_01.png){: width="30" height="30"}
+   ![2018_05_28_slider_01](/assets/img/2018_05_28_slider_01.png){: width="30" height="30"}
 
    ​
 
@@ -16,7 +16,7 @@
 
 2. Slider Fill의 색을 원하는 색상으로 변경한다.
 
-   ![2018_05_28_slider_02](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_02.png){: width="30 height="30"}
+   ![2018_05_28_slider_02](/assets/img/2018_05_28_slider_02.png){: width="30 height="30"}
 
    ​
 
@@ -29,11 +29,11 @@
 
 1. Project의 Assets에 C# 스크립트를 생성한다.
 
-   ![2018_05_28_slider_03](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_03.png){: wight="30" height="30"}
+   ![2018_05_28_slider_03](/assets/img/2018_05_28_slider_03.png){: wight="30" height="30"}
 
    ​
 
-2. 스페이스바를 누르고 있으면 값이 증가하는 코드 작성 후 저장한다.
+2. 스페이스 바를 누르고 있으면 값이 증가하는 코드 작성 후 저장한다.
 
    ~~~c#
    using System.Collections;
@@ -71,26 +71,26 @@
    ~~~
    ​
 
-3. C# 스크립트를 hierachy view에 있는 slider로 드래그해서 적용시킨다.
+3. C# 스크립트를 hierarchy view에 있는 slider로 드래그해서 적용한다.
 
-   ![2018_05_28_slider_04](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_04.png){: width="30" height="30"}
+   ![2018_05_28_slider_04](/assets/img/2018_05_28_slider_04.png){: width="30" height="30"}
 
    ​
 
-4. Inspector view의  script 부분의 Health Bar Slider에 heierarchy의 slide를 드래그해서 적용시킨다.
+4. Inspector view의  script 부분의 Health Bar Slider에 hierarchy의 slide를 드래그해서 적용한다.
 
-   ![2018_05_28_slider_05](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_05.png){: width="30" height="30"} 
+   ![2018_05_28_slider_05](/assets/img/2018_05_28_slider_05.png){: width="30" height="30"} 
 
    ​
 
 5. Maxvalue는 100으로 설정한다.
 
-   ![2018_05_28_slider_06](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_06.png){: width="30" height="30"} 
+   ![2018_05_28_slider_06](/assets/img/2018_05_28_slider_06.png){: width="30" height="30"} 
 
    ​
 
-6. Play 버튼을 클릭해서 스페이스바를 누르면 게이지 바가 증가하는 것을 볼 수 있다.
+6. Play 버튼을 클릭해서 스페이스 바를 누르면 게이지 바가 증가하는 것을 볼 수 있다.
 
-   ![2018_05_28_slider_07](C:\Users\sonaj\sonAJin1.github.io\img\2018_05_28_slider_07.png){: width="30" height="30"}
+   ![2018_05_28_slider_07](/assets/img/2018_05_28_slider_07.png){: width="30" height="30"}
 
    ​
