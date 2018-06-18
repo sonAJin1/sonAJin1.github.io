@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "SON AH JIN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Full stack developer"
   location         : "Korea"
   email            : sonajin11@gmail.com
@@ -265,7 +265,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true # 해당 포스트를 읽은 시간이 표시
+      read_time: false # 해당 포스트를 읽은 시간이 표시
       comments: # true
       share: true #포스트 공유 기능을 활성화 할것인지
       related: true
