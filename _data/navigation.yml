@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "개발일지"
-    url: /graduated_project/
+    url: /collection-archive/
   - title: "TIL"
     url: /TIL
   # - title: "Sample Posts"
