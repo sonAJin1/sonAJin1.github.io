@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/sonAJin1
+  github           : sonAJin1
   gitlab           :
   google_plus      :
   keybase          :
@@ -136,7 +136,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _graduated_project
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

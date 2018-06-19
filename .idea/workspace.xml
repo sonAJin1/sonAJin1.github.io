@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ee26072-dda3-4f21-a6bf-f029d92a6639" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/develop-log-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/develop-log-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-195">
-              <caret line="259" selection-start-line="259" selection-end-line="259" />
+            <state relative-caret-position="261">
+              <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -52,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="develop-log-archive.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="develop-log-archive.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/develop-log-archive.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -86,9 +86,9 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_page/collection-archive.html" />
         <option value="$PROJECT_DIR$/_pages/collection-archive.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_pages/develop-log-archive.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -136,21 +136,6 @@
               <item name="sonAJin1.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sonAJin1.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_graduated_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sonAJin1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sonAJin1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sonAJin1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sonAJin1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sonAJin1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sonAJin1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,12 +232,12 @@
       <workItem from="1527604351117" duration="663000" />
       <workItem from="1529299806372" duration="555000" />
       <workItem from="1529304879264" duration="1363000" />
-      <workItem from="1529426139027" duration="10322000" />
+      <workItem from="1529426139027" duration="10753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21822000" />
+    <option name="totallyTimeSpent" value="22253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -603,6 +588,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/develop-log-archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -612,15 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="259" selection-start-line="259" selection-end-line="259" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/develop-log-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="261">
+          <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
         </state>
       </provider>
     </entry>
