@@ -261,7 +261,7 @@ compress_html:
 collections :
   - graduated_project:
       output : true
-      permalink: /graduated_project/:path/
+      permalink: /:collection/:path/
 
 
 # Defaults
