@@ -258,9 +258,6 @@ compress_html:
     envs: development
 
 
-
-
-
 # Defaults
 defaults:
   # _posts
@@ -289,4 +286,4 @@ defaults:
 collections :
   - graduated_project:
       output : true
-      permalink: /graduated_project/:path/
+      permalink: /:collection/:path/
