@@ -236,7 +236,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
+graduation_log_archive:
+  type: liquid
+  path: /graduation_log/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
