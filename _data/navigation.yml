@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "개발일지"
-    url: /developLog/
+    url: /graduated_project/
   - title: "TIL"
     url: /TIL
   # - title: "Sample Posts"

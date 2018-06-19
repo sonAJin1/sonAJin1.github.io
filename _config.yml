@@ -256,6 +256,14 @@ compress_html:
     envs: development
 
 
+
+# Collections
+collections :
+  - graduated_project:
+      output : true
+      permalink: /graduated_project/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -269,3 +277,13 @@ defaults:
       comments: # true
       share: true #포스트 공유 기능을 활성화 할것인지
       related: true
+  # _graduated_project
+  - scope:
+      path: ""
+      type: graduated_project
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+
