@@ -259,10 +259,10 @@ compress_html:
 
 
 # Collections
-#collections :
-#  - graduated_project:
-#      output : true
-#      permalink: /:collection/:path/
+collections :
+  - graduated_project:
+      output : true
+      permalink: /:collection/:path/
 
 
 # Defaults
