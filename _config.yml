@@ -271,14 +271,14 @@ defaults:
       share: true #포스트 공유 기능을 활성화 할것인지
       related: true
   # _graduated_project
-#  - scope:
-#      path: ""
-#      type: graduated_project
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: false
+  - scope:
+      path: ""
+      type: graduated_project
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
 
 
 # Collections
