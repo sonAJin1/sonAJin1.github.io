@@ -285,4 +285,4 @@ defaults:
 collections:
   graduated_project:
     output: true
-    permalink: /:collection/:path/
+    permalink: /graduated_project/:path/
