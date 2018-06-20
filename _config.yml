@@ -283,6 +283,6 @@ defaults:
 
 # Collections
 collections :
-  - graduated_project:
-      output : true
-      permalink: /:collection/:path/
+  graduated_project:
+     output : true
+     permalink: /graduated_project/:path/
