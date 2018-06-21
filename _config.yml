@@ -281,7 +281,7 @@ defaults:
       comments: false
 
 # Collections
-collections:
-  graduatedproject:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  graduatedproject:
+#    output: true
+#    permalink: /:collection/:path/
